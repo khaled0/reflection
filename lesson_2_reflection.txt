@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a repository was created , to track every change on my project
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is a middle area make you able to add a multible file togother to your repository
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+file include all matual lines plus what added from each branch , sub what each branch deleted from orgin , to explane 
+branches that merging .
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it save time , and if any conflict happened he will notifacte you to fix it 
