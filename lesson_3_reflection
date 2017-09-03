@@ -14,3 +14,12 @@ branches : make line to develop any thing
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to know the difference between what you are done and what have finished before by you or your collaborator
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can collaborate using git in my private host , but github is easier and more security
+
+
+On github,When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I choose work in seperate branch when i work with others in the project , so i can make others see my changes , and dont make the small changes in master branch , but this techniqe slower
+I'll choose work on master directly , if I alone in the project , and no meaning to seperate branch because no one will see it , and this will be faster
